@@ -1,0 +1,64 @@
+{
+    "basic_info": {
+      "name": "marukun_",
+      "titles": [ "Front-end Developer", "web App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/marukun712",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/marukun_92",
+          "class": "fab fa-twitter"
+        }
+      ],
+      "image": "icon.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "85"
+        },
+        {
+          "name": "ubuntu",
+          "class": "devicon-ubuntu-plain",
+          "level": "85"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "tailwindcss",
+          "class": "devicon-tailwindcss-plain",
+          "level": "85"
+        },    
+        {
+          "name": "vscode",
+          "class": "devicon-vscode-plain",
+          "level": "85"
+        },
+        {
+          "name": "node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        }
+
+      ]
+    }
+  }
