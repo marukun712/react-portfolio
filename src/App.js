@@ -33,12 +33,6 @@ class App extends Component {
       oppositeLangIconId === window.$primaryLanguageIconId
         ? window.$secondaryLanguageIconId
         : window.$primaryLanguageIconId;
-    document
-      .getElementById(oppositeLangIconId)
-      .removeAttribute("filter", "brightness(40%)");
-    document
-      .getElementById(pickedLangIconId)
-      .setAttribute("filter", "brightness(40%)");
   }
 
   componentDidMount() {
@@ -83,38 +77,7 @@ class App extends Component {
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
-          <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$primaryLanguage,
-                window.$secondaryLanguageIconId
-              )
-            }
-            style={{ display: "inline" }}
-          >
-            <span
-              className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-japan"
-              data-inline="false"
-              id={window.$primaryLanguageIconId}
-            ></span>
-          </div>
-          <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$secondaryLanguage,
-                window.$primaryLanguageIconId
-              )
-            }
-            style={{ display: "inline" }}
-          >
-            <span
-              className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-united-states"
-              data-inline="false"
-              id={window.$secondaryLanguageIconId}
-            ></span>
-          </div>
+
         </div>
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}

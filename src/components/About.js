@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import nodejsIcon from "@iconify/icons-logos/nodejs-icon";
 import tailwindIcon from "@iconify/icons-logos/tailwindcss-icon";
-import jsIcon from "@iconify/icons-logos/javascript";
+import nextIcon from "@iconify/icons-logos/nextjs";
 
 class About extends Component {
   render() {
@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={jsIcon}
+                    icon={nextIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>

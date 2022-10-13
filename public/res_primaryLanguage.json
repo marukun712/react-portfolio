@@ -1,124 +1,151 @@
 {
-    "basic_info": {
-      "description_header": "HI",
-      "description": "fpsかweb開発か動画編集。vtuber好き。推し ⚓/🐻💿/🔱🌹/🐉💛/🍙🍜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "HI",
+    "description": "fpsかweb開発か動画編集。vtuber好き。推し ⚓/🐻💿/🔱🌹/🐉💛/🍙🍜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "nodegeoip",
+      "startDate": "2022",
+      "description": "ipアドレスから地域を検索できるツールです。",
+      "images": [
+        "images/portfolio/nodegeoip/1.png"
+      ],
+      "url": "https://github.com/marukun712/nodegeoip",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "nodejs"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "nodegeoip",
-        "startDate": "2022",
-        "description": "ipアドレスから地域を検索できるツールです。",
-        "images": [
-          "images/portfolio/nodegeoip/1.png"
-        ],
-        "url": "https://github.com/marukun712/nodegeoip",
-        "technologies": [
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "nodejs"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "ラーメン魔王軒",
-        "startDate": "2022",
-        "description": "某ラーメン屋魔王vtuberのラーメン屋公式サイトです",
-        "images": [
-          "images/portfolio/maouken/2.png"
-        ],
-        "url": "https://maouken.netlify.app/html",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },  
-          {
-            "class": "devicon-css3-plain",
-            "name": "css"
-          },
-          {
-            "class": "devicon-tailwindcss-plain",
-            "name": "tailwindcss"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "holo-radio",
-        "startDate": "2022",
-        "description": "ホロライブ楽曲を24時間垂れ流ししているサイトです。",
-        "images": [
-          "images/portfolio/holo-radio/1.png"
-        ],
-        "url": "http://marukunserver.ml:2000",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },  
-          {
-            "class": "devicon-css3-plain",
-            "name": "css"
-          },
-          {
-            "class": "devicon-tailwindcss-plain",
-            "name": "tailwindcss"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },      
-          {
-            "class": "devicon-ubuntu-plain",
-            "name": "ubuntu"
-          },
-          
-          {
-            "class": "devicon-socketio-plain",
-            "name": "socketio"
-          }
-        ]
-      },
-      {
-        "title": "okaramap",
-        "startDate": "2022",
-        "description": "vtuberグループ verseの配信予定サイトです",
-        "images": [
-          "images/portfolio/okaramap/1.png",
-          "images/portfolio/okaramap/2.png"
-        ],
-        "url": "https://okaramap.ml",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "css"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-tailwindcss-plain",
-            "name": "tailwindcss"
-          }
-        ]
-      }
-    ]
-  }
+    {
+      "title": "ラーメン魔王軒",
+      "startDate": "2022",
+      "description": "某ラーメン屋魔王vtuberのラーメン屋公式サイトです",
+      "images": [
+        "images/portfolio/maouken/2.png"
+      ],
+      "url": "https://maouken.netlify.app/html",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "holo-radio",
+      "startDate": "2022",
+      "description": "ホロライブ楽曲を24時間垂れ流ししているサイトです。",
+      "images": [
+        "images/portfolio/holo-radio/1.png"
+      ],
+      "url": "http://marukunserver.ml:2000",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-ubuntu-plain",
+          "name": "ubuntu"
+        },
+        {
+          "class": "devicon-socketio-plain",
+          "name": "socketio"
+        }
+      ]
+    },
+    {
+      "title": "okaramap",
+      "startDate": "2022",
+      "description": "vtuberグループ verseの配信予定サイトです",
+      "images": [
+        "images/portfolio/okaramap/1.png",
+        "images/portfolio/okaramap/2.png"
+      ],
+      "url": "https://okaramap.ml",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        }
+      ]
+    },
+    {
+      "title": "sera-music",
+      "startDate": "2022",
+      "description": "アルバ・セラさんの歌枠からタイムスタンプコメントを取得して音楽プレイヤーのように再生できるサイトです。",
+      "images": [
+        "images/portfolio/sera/1.png",
+        "images/portfolio/sera/2.png"
+      ],
+      "url": "https://sera-music.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "next.js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "react"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "node.js"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        }
+      ]
+    }
+  ]
+}
