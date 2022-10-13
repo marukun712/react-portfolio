@@ -33,6 +33,7 @@ class App extends Component {
       oppositeLangIconId === window.$primaryLanguageIconId
         ? window.$secondaryLanguageIconId
         : window.$primaryLanguageIconId;
+    console.log(pickedLangIconId)
   }
 
   componentDidMount() {
