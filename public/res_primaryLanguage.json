@@ -5,6 +5,7 @@
     "section_name": {
       "about": "About me",
       "projects": "Projects",
+      "posts": "Posts",
       "skills": "Skills",
       "experience": "Experience"
     }
@@ -139,6 +140,16 @@
           "name": "tailwindcss"
         }
       ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "tacotron2でvtuberの音声合成をしてみる",
+      "Date": "2022",
+      "images": [
+        "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9dGFjb3Ryb24yJUUzJTgxJUE3dnR1YmVyJUUzJTgxJUFFJUU5JTlGJUIzJUU1JUEzJUIwJUU1JTkwJTg4JUU2JTg4JTkwJUUzJTgyJTkyJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJThCJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1mMDQ3OTZiMWViNDE3ZmFhYWEyZGIwZGRlYzI1Yjk1Zg&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbWFydWt1bl8mdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWZiNjk0MTRkODY5NmE4Yzg4OTc4ZmQ2Y2I3MmUyMjhl&blend-x=142&blend-y=491&blend-mode=normal&s=6b0fec4d6b3227ae5a1d3dc54fb62aee"
+      ],
+      "url": "https://qiita.com/marukun_/private/8815385ca41ad007ee48"
     }
   ]
 }

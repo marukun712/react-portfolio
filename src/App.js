@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Posts from "./components/Posts";
 
 class App extends Component {
 
@@ -67,11 +68,14 @@ class App extends Component {
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+        <Posts
+          resumePosts={this.state.resumeData.posts}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );
