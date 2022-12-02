@@ -3,7 +3,11 @@
     "name": "marukun_",
     "titles": [
       "Front-end Developer",
-      "web App Developer"
+      "web App Developer",
+      "Aqua crew",
+      "Vtuber fan"
+
+
     ],
     "social": [
       {
@@ -22,16 +26,6 @@
   "skills": {
     "icons": [
       {
-        "name": "Linux",
-        "class": "devicon-linux-plain",
-        "level": "85"
-      },
-      {
-        "name": "ubuntu",
-        "class": "devicon-ubuntu-plain",
-        "level": "85"
-      },
-      {
         "name": "HTML 5",
         "class": "devicon-html5-plain",
         "level": "95"
@@ -47,23 +41,78 @@
         "level": "70"
       },
       {
-        "name": "tailwindcss",
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Tailwindcss",
         "class": "devicon-tailwindcss-plain",
         "level": "85"
       },
       {
-        "name": "vscode",
+        "name": "VSCode",
         "class": "devicon-vscode-plain",
         "level": "85"
       },
       {
-        "name": "node.js",
+        "name": "Node.js",
         "class": "devicon-nodejs-plain",
         "level": "85"
       },
       {
-        "name": "next.js",
+        "name": "Next.js",
         "class": "devicon-nextjs-plain",
+        "level": "85"
+      },
+      {
+        "name": "Nuxt.js",
+        "class": "devicon-nuxtjs-plain",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "85"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "85"
+      },
+      {
+        "name": "GitHub",
+        "class": "devicon-github-plain",
+        "level": "85"
+      },
+      {
+        "name": "Linux",
+        "class": "devicon-linux-plain",
+        "level": "85"
+      },
+      {
+        "name": "ubuntu",
+        "class": "devicon-ubuntu-plain",
+        "level": "85"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "85"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain",
+        "level": "85"
+      },
+      {
+        "name": "Slack",
+        "class": "devicon-slack-plain",
+        "level": "85"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
         "level": "85"
       }
     ]

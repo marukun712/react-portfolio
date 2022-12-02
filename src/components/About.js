@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import nodejsIcon from "@iconify/icons-logos/nodejs-icon";
-import tailwindIcon from "@iconify/icons-logos/tailwindcss-icon";
-import nextIcon from "@iconify/icons-logos/nextjs";
+import JsIcon from "@iconify/icons-logos/javascript";
+import TailwindIcon from "@iconify/icons-logos/tailwindcss-icon";
+import HtmlIcon from "@iconify/icons-logos/html-5";
 
 class About extends Component {
   render() {
@@ -31,15 +31,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={nodejsIcon}
+                    icon={JsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={tailwindIcon}
+                    icon={TailwindIcon}
                     style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={nextIcon}
+                    icon={HtmlIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>

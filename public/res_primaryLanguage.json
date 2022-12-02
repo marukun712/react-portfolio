@@ -11,6 +11,62 @@
   },
   "projects": [
     {
+      "title": "sera-music",
+      "startDate": "2022",
+      "description": "アルバ・セラさんの歌枠からタイムスタンプコメントを取得して音楽プレイヤーのように再生できるサイトです。",
+      "images": [
+        "images/portfolio/sera/1.png",
+        "images/portfolio/sera/2.png"
+      ],
+      "url": "https://sera-music.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "next.js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "react"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "node.js"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        }
+      ]
+    },
+    {
+      "title": "VeeScheduler",
+      "startDate": "2022",
+      "description": "vtuberグループ VEE dev-aの配信予定サイトです。",
+      "images": [
+        "images/portfolio/veescheduler/1.png",
+        "images/portfolio/veescheduler/2.png"
+      ],
+      "url": "https://veescheduler.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "next.js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "react"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "node.js"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        }
+      ]
+    },
+    {
       "title": "nodegeoip",
       "startDate": "2022",
       "description": "ipアドレスから地域を検索できるツールです。",
@@ -32,7 +88,7 @@
     {
       "title": "ラーメン魔王軒",
       "startDate": "2022",
-      "description": "某ラーメン屋魔王vtuberのラーメン屋公式サイトです",
+      "description": "某ラーメン屋魔王vtuberのラーメン屋公式サイトです。",
       "images": [
         "images/portfolio/maouken/2.png"
       ],
@@ -57,44 +113,9 @@
       ]
     },
     {
-      "title": "holo-radio",
-      "startDate": "2022",
-      "description": "ホロライブ楽曲を24時間垂れ流ししているサイトです。",
-      "images": [
-        "images/portfolio/holo-radio/1.png"
-      ],
-      "url": "http://marukunserver.ml:2000",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "css"
-        },
-        {
-          "class": "devicon-tailwindcss-plain",
-          "name": "tailwindcss"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-ubuntu-plain",
-          "name": "ubuntu"
-        },
-        {
-          "class": "devicon-socketio-plain",
-          "name": "socketio"
-        }
-      ]
-    },
-    {
       "title": "okaramap",
       "startDate": "2022",
-      "description": "vtuberグループ verseの配信予定サイトです",
+      "description": "vtuberグループ verseの配信予定サイトです。",
       "images": [
         "images/portfolio/okaramap/1.png",
         "images/portfolio/okaramap/2.png"
@@ -112,34 +133,6 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        },
-        {
-          "class": "devicon-tailwindcss-plain",
-          "name": "tailwindcss"
-        }
-      ]
-    },
-    {
-      "title": "sera-music",
-      "startDate": "2022",
-      "description": "アルバ・セラさんの歌枠からタイムスタンプコメントを取得して音楽プレイヤーのように再生できるサイトです。",
-      "images": [
-        "images/portfolio/sera/1.png",
-        "images/portfolio/sera/2.png"
-      ],
-      "url": "https://sera-music.vercel.app/",
-      "technologies": [
-        {
-          "class": "devicon-nextjs-plain",
-          "name": "next.js"
-        },
-        {
-          "class": "devicon-react-plain",
-          "name": "react"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "node.js"
         },
         {
           "class": "devicon-tailwindcss-plain",
