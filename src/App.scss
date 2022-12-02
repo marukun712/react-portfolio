@@ -345,6 +345,11 @@ header h1 {
 	padding-bottom: 5%;
 }
 
+#posts {
+	background: #fff;
+	padding-bottom: 5%;
+}
+
 .portfolio-item {
 	max-width: 100%;
 	margin-bottom: 15px;
@@ -371,6 +376,7 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}
