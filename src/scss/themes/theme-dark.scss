@@ -76,6 +76,10 @@ body[data-theme="dark"] {
    #posts {
       background-color: #7f7f7f;
       padding-bottom: 5%;
+
+      .section-title {
+         color: white !important;
+      }
    }
 
    #resume {
