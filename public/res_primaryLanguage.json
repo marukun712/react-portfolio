@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "HI",
-    "description": "fpsかweb開発か動画編集。vtuber好き。推し ⚓/🐻💿/🔱🌹/🐉💛/🍙🍜",
+    "description": "ホロライブとラブライブが好き。\n あくあクルーでそらとも。 趣味でweb開発してます。\n Vtuber/アニメ/FPS/WEB/動画編集 \n マシュマロ:https://marshmallow-qa.com/marukun_92?utm \n 推し ⚓/🐻💿/🔱🌹/🐉💛/🍙🍜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -36,6 +36,61 @@
         {
           "class": "devicon-tailwindcss-plain",
           "name": "tailwindcss"
+        }
+      ]
+    },
+    {
+      "title": "Youtube-archive",
+      "startDate": "2022",
+      "description": "Youtubeのアーカイブを管理するツール。",
+      "images": [
+        "images/portfolio/youtube-archive/1.png"
+      ],
+      "url": "https://marukun712.github.io/youtube-archive/html/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "DuckDcukSu",
+      "startDate": "2022",
+      "description": "ホロぐらで登場した検索エンジンの再現サイト。",
+      "images": [
+        "images/portfolio/duckdcuksu/1.png",
+        "images/portfolio/duckdcuksu/2.png"
+      ],
+      "url": "https://marukun712.github.io/DuckDcukSu/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     },
@@ -138,6 +193,41 @@
         {
           "class": "devicon-tailwindcss-plain",
           "name": "tailwindcss"
+        }
+      ]
+    },
+    {
+      "title": "holo-radio",
+      "startDate": "2021",
+      "description": "hololive楽曲を24時間垂れ流しているwebサイト。",
+      "images": [
+        "images/portfolio/holo-radio/1.png"
+      ],
+      "url": "http://marukunserver.ml:2000/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-tailwindcss-plain",
+          "name": "tailwindcss"
+        },
+        {
+          "class": "devicon-ubuntu-plain",
+          "name": "ubuntu"
+        },
+        {
+          "class": "devicon-socketio-plain",
+          "name": "socketio"
         }
       ]
     }
